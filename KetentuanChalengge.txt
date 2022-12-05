@@ -1,0 +1,7 @@
+5 folder
+- Dataset
+- File yaml
+- Lstm dan model
+- nn dan model
+- Analisis report & Calculation 
+
